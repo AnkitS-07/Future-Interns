@@ -1,0 +1,14 @@
+# Secrets
+.env
+dialogflow_key.json
+
+# Generated files
+chat_logs.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+Thumbs.db
